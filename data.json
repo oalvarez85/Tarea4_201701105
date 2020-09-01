@@ -1,0 +1,76 @@
+{
+    "personas":[
+        {
+            "nombre": "Junissa",
+            "edad": "23",
+            "activo": "True",
+            "saldo": "35000.50"
+        },
+        {
+            "nombre": "Luis",
+            "edad": "21",
+            "activo": "True",
+            "saldo": "1000.00"
+        },
+        {
+            "nombre": "Julia",
+            "edad": "30",
+            "activo": "True",
+            "saldo": "3000.00"
+        },
+        {
+            "nombre": "María",
+            "edad": "25",
+            "activo": "False",
+            "saldo": "500.00"
+        },
+        {
+            "nombre": "Donald",
+            "edad": "40",
+            "activo": "True",
+            "saldo": "3200.00"
+        },
+        {
+            "nombre": "Ricardo",
+            "edad": "35",
+            "activo": "False",
+            "saldo": "100.00"
+        },
+        {
+            "nombre": "Melania",
+            "edad": "46",
+            "activo": "True",
+            "saldo": "4800.00"
+        },
+        {
+            "nombre": "Juan",
+            "edad": "50",
+            "activo": "True",
+            "saldo": "5400.00"
+        },
+        {
+            "nombre": "Carla",
+            "edad": "25",
+            "activo": "False",
+            "saldo": "250.00"
+        },
+        {
+            "nombre": "Sarita",
+            "edad": "23",
+            "activo": "True",
+            "saldo": "1000000.00"
+        },
+        {
+            "nombre": "Ana",
+            "edad": "43",
+            "activo": "True",
+            "saldo": "4904.00"
+        },
+        {
+            "nombre": "Luisa",
+            "edad": "27",
+            "activo": "False",
+            "saldo": "6700.50"
+        }
+    ]
+}
